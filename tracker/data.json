@@ -1,14 +1,10 @@
 [
 	{
-		"date": "2023-04-20",
-		"water_intake": "4000"
-	},
-	{
 		"date": "2023-03-29",
 		"water_intake": "3800"
 	},
 	{
-		"date": "2023-04-10",
-		"water_intake": "2900"
+		"date": "2023-04-20",
+		"water_intake": "4000"
 	}
 ]
